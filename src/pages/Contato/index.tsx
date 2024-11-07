@@ -1,6 +1,6 @@
-import './App.css'
+import './styles.css'
 
-function App() {
+function Contato() {
     return (
         <div id="container">
             <nav id="menu">
@@ -15,4 +15,4 @@ function App() {
         </div>
     )
 }
-export default App
+export default Contato
